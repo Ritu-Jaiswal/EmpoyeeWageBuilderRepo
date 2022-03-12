@@ -29,6 +29,7 @@ public class EmpoyeeWageBuilder {
                 total_wage = FULL_DAY_HR * WAGE_PER_HR;
             }
         }
-        System.out.println("Total Wage = "+total_wage);
     }
+            System.out.println("Total Wage = "+total_wage);
+
 }
