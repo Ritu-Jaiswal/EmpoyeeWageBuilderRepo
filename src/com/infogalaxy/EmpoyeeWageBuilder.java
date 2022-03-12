@@ -5,7 +5,7 @@ import java.util.Random;
 public class EmpoyeeWageBuilder {
     public static void main(String[] args){
         // UC 2 - Daily Wage Calculation
-        // pass - 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
+
         final int WAGE_PER_HR = 20;
         final int  FULL_DAY_HR = 8;
         int total_wage = 0;
